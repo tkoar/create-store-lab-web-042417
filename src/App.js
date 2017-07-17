@@ -7,8 +7,8 @@ export class App extends Component {
       <div className="App">
         <UserInput store={this.props.store}/>
       </div>
-    );
+    )
   }
-};
+}
 
 export default App;
